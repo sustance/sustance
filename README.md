@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sustance
-- 👀 I’m interested in *nix, shells, python, smol web
+- I’m @sustance
+- I’m interested in *nix, luatex, shells, Lua, python, smol web
 
 
 <!---
