@@ -2,11 +2,11 @@ I’m @sustance, interested in *nix, luatex, shells, Lua, python, smol web
 
 #______TRAVEL BOOK______
 
-- a  All pdfs for a single name prefix (trip) for the first day af travel on that trip
+1.  All pdfs for a single name prefix (trip) for the first day af travel on that trip
 
-- b  Get PDFs of all ticket and in target folder with names YYYMMDDi-* where "i" sets sequence within date.
+2.  Get PDFs of all ticket and in target folder with names YYYMMDDi-* where "i" sets sequence within date.
 
-- c  run: incpdfTravel.lua 20241210 YYMMDD <-- for trips to include in this book
+3.  run: incpdfTravel.lua 20241210 YYMMDD <-- for trips to include in this book
 
 --> Script 1-*.sh does this
 
