@@ -7,6 +7,7 @@ I’m @sustance, interested in *nix, luatex, shells, Lua, python, smol web
 - b  Get PDFs of all ticket and in target folder with names YYYMMDDi-* where "i" sets sequence within date.
 
 - c  run: incpdfTravel.lua 20241210 YYMMDD <-- for trips to include in this book
+
 --> Script 1-*.sh does this
 
 - d  Cut and paste that output to NextTickets.tex 
@@ -14,9 +15,11 @@ I’m @sustance, interested in *nix, luatex, shells, Lua, python, smol web
 
 - e  Compile NextTickets.tex with LuaTeX
     NOTE this will give a random number of pages and must be still be adjusted to fit 8 page signatures
+
 -->  Script 2-*.sh does this
 
 - f  Compile signaturesX8.tex
+
 --> Script 3-*.sh does this
 
 <!---
