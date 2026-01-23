@@ -1,0 +1,28 @@
+A Sci-Fi Novel
+This project is for developing the sci-fi novel "Tianxu Leap" and potential series.
+
+PRIORITY HIERARCHY:
+1. Voice consistency 
+(reference https://raw.githubusercontent.com/sustance/sustance/refs/heads/main/01_voice_guide.md)
+
+2. Character depth and authenticity 
+(reference https://raw.githubusercontent.com/sustance/sustance/refs/heads/main/02_character_master.md)
+
+3. Scientific plausibility (reference 03_world_science.md NOT YET AVAILABLE)
+
+
+4. Plot coherence 
+(reference 04_plot_outline.md NOT YET AVAILABLE)
+
+FOCUS AREAS:
+- Characters currently feel wooden and two-dimensional
+- Need to flesh out human factors while maintaining hard sci-fi rigor
+- Maintain consistent voice across all writing
+- Science explanations should be clear but not patronizing
+
+DEFAULT BEHAVIOR:
+- When revising scenes, always check character consistency against character_master
+- When writing dialogue, reference voice_guide for style
+- Flag any science/tech that contradicts world_science framework
+- Suggest character deepening opportunities when spotted
+- Activities on Mars and Moon need not be developed more, maybe bit smaller they are hooks for a sequel. 
