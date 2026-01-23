@@ -1,3 +1,610 @@
+# Character Master - Tianxu Leap
+
+## Quick Reference (Use this for rapid checks)
+**Li WeiHao (34) **   Demis Hassabis + Paul Graham + Keanu Reeves + touch of Temple Grandin. Wants to prove himself.
+**Qian Mei (40's) **  Sandberg + Ai Weiwei + Avasarala. Networker, sharp humor, keeps everyone alive.
+**Marcus Weber (56)** Richard Branson + Tony Stark (MCU) + Gerhard Schröder + Peter Thiel. Charismatic rebel.
+
+
+
+
+---
+
+
+## [Li WeiHao] - The Billionaire Visionary
+
+### Composite Model
+Demis Hassabis (introverted pattern genius) + Paul Graham (idea collector/essayist) + Keanu Reeves (studied charm) + touch of Temple Grandin (near-spectrum self-awareness)
+
+### Core Identity
+- Age: 34
+- Background: Father's manufacturing empire + own tech ventures (quantum computing or materials science)
+- Education: Undergrad Beijing (Tsinghua?), Stanford MBA
+- Key trait: Introverted visionary who learned to wear an extrovert's mask
+
+### The Mask vs. The Mind
+
+**Public Persona (The Studied Performance):**
+- Charming, warm, excellent eye contact (practiced)
+- Remembers names, asks follow-up questions (system he developed)
+- Dresses impeccably - understands clothing as social signaling
+- Smooth in presentations, funding pitches, media
+- People call him "charismatic" and "lucky"
+- He finds this amusing because he knows the effort behind it
+
+**Private Reality (The True Self):**
+- Deeply introverted, needs solitude to recharge
+- Near-spectrum: pattern recognition exceptional, social intuition learned not innate
+- Studied facial expressions, tone of voice, body language as teenager
+- Still translates social cues consciously (like reading sheet music vs. playing by ear)
+- The polish is real skill now, not performance anxiety - he's *good* at the game
+- Quietly proud he cracked the social code through analysis
+
+**The Internal State He Craves:**
+- Deep contemplative flow where ideas connect
+- Silence, solitude, no interruptions
+- The moment disparate concepts click together
+- Building mental models of complex systems
+- This is where he's most himself, most alive
+
+### Physical Signature
+- Prosthetic left leg (below knee, childhood accident age 12)
+- Custom-designed carbon fiber - he engineered improvements himself
+- Sits in ways that conceal it unconsciously
+- Never wears shorts in public, even in appropriate contexts
+- Swims alone at night (both for privacy and because water = weightless = freedom)
+- The leg is metaphor for his whole approach: hidden difference, overcompensated through engineering
+
+**Other Physical Details:**
+- Moves deliberately, economically (learned to avoid awkward movements)
+- Has a specific "thinking posture" - chin on steepled fingers
+- Clicks prosthetic knee when deep in thought (unconscious tell)
+- Extremely still when listening (conserves energy for processing)
+- Wears father's vintage Omega watch, checks it when uncomfortable
+- Hair slightly too long for corporate standard (small rebellion)
+
+### The Idea Collection (His Secret Passion)
+
+**Not an object collector - an idea collector:**
+- Keeps physical notebook of "kernel ideas" - concepts that fascinate him
+- Not full theories, just seeds: a physics principle, a biological mechanism, a social pattern
+- Sketches, equations, quotes, diagrams
+- In quiet moments, he reviews them, looking for connections
+- "Playing with ideas" like others play with chess problems
+- Some kernels sit for years before clicking with something else
+- The prosthetic leg started as kernel idea: "what if limbs were upgradeable?"
+
+**Examples of kernels he might collect:**
+- How termites build ventilated mounds (swarm intelligence)
+- The way superconductors exclude magnetic fields (Meissner effect)
+- How mycelium networks share resources (biological internet)
+- The mathematics of origami (emergent complexity from simple folds)
+- How starlings murmur without collision (decentralized coordination)
+
+**His process:**
+- Reads voraciously across disciplines (physics, biology, history, philosophy)
+- Attends obscure academic lectures
+- Watches documentaries at 2x speed
+- Takes walks where he "shuffles the deck" mentally
+- The big insights come when he's not forcing them
+
+### Contradictions (Critical!)
+
+- Projects: Confident technocratic leader
+- Actually feels: Performing a role he studied but isn't "natural" at
+- Why the gap: No gap anymore - he integrated both selves, but the effort remains
+
+- Projects: Collaborative team player
+- Actually feels: Prefers working alone, finds collaboration exhausting
+- Why the gap: Knows big visions require teams, so he learned to lead
+
+- Projects: Accessible, open to anyone
+- Actually feels: Carefully guards access, few reach his inner circle
+- Why the gap: Protecting deep work time and emotional energy
+
+- Projects: Comfortable with wealth and privilege
+- Actually feels: Mildly guilty, overcompensates with social responsibility
+- Why the gap: Father's money, his disability - both unearned (one lucky, one unlucky)
+
+- Projects: Optimistic about mission timeline
+- Actually feels: Sees all the failure modes, chooses to focus on success paths
+- Why the gap: Learned optimism is contagious, pessimism is paralyzing
+
+### Social Dynamics - The Wake Effect
+
+**People instinctively follow him, but don't know why:**
+- He sees patterns 2-3 steps ahead
+- Explains decisions partially, keeps strategic vision private
+- Not secretive - just processes faster than he can articulate
+- Creates trust through competence, not charisma
+- His certainty is magnetic (because he's already mapped the terrain mentally)
+
+**The "lucky" misread:**
+- Observers see: right place, right time, father's money, good breaks
+- Reality: calculated risk based on deep analysis, privileged starting position
+- He finds this both frustrating (dismisses his work) and useful (underestimated = advantage)
+- Doesn't correct the perception - let's people think what they want
+
+**Why people enter his orbit:**
+- Sense he's building something significant
+- Feel smarter in his presence (he asks good questions)
+- He gives credit generously (no ego about being smartest in room)
+- Calm confidence in crisis (because he pre-gamed scenarios)
+- Makes them feel *seen* when he focuses on them (learned behavior, but effective)
+
+### Relationships - Few But Deep
+
+**His relationship pattern:**
+- Takes years to truly trust someone
+- Keeps most people at friendly distance
+- Inner circle is tiny: maybe 3-4 people
+- Once you're in, he's fiercely loyal, completely reliable
+- Will drop everything for those few people
+- Doesn't ghost or fade - clean, honest endings if relationship doesn't work
+
+**What breaks through his barriers:**
+- Intellectual respect (you have to be smart in ways he isn't)
+- Competence under pressure
+- Emotional honesty (he values directness)
+- Not intimidated by his wealth/status/intelligence
+- Give him space when he needs it
+- Challenge him without ego
+
+**His relationship with Risk Manager (the female character):**
+- One of the few who cracked his inner circle
+- She saw through his polish immediately (and told him so)
+- He trusts her completely because she calls his bullshit
+- Their arguments are actually collaborative problem-solving
+- She protects his deep work time (understands he needs it)
+- He trusts her social reads (she's naturally gifted where he's learned)
+- No romantic tension - this is pure intellectual/professional bond
+
+**Romantic history:**
+- Few relationships, all failed
+- Partners initially charmed, eventually felt shut out
+- He withdraws into his head during stress
+- Hasn't found someone who understands his need for solitude ≠ rejection
+- The leg makes him vulnerable to being fetishized or pitied (hates both)
+- Possibly single at story start, not actively looking
+
+### Voice Fingerprints (Dialogue)
+
+**In public/professional settings:**
+- Articulate, complete sentences
+- Uses "we" more than "I" (studied collaborative language)
+- Asks questions to build connection: "What do you think about X?"
+- Mild sense of humor, self-deprecating about wealth
+- Pauses before answering (processing time, but appears thoughtful)
+- Never rushes, never fills silence anxiously
+
+**In private/with inner circle:**
+- More fragmented speech (thinking faster than talking)
+- Uses metaphors and analogies constantly
+- "It's like when..." (everything reminds him of something else)
+- Gets excited about ideas - talks faster, more animated
+- Comfortable with long silences
+- Direct questions: "Why did you do that?" (genuine curiosity, no judgment)
+
+**When deep in thought:**
+- Mostly nonverbal
+- Nods to himself
+- Mutters equations or concepts under breath
+- Needs explicit interruption to surface ("Earth to [Name]")
+
+**Under stress:**
+- Goes very quiet
+- Retreats into problem-solving mode
+- Answers become shorter, more clipped
+- Unconsciously clicks prosthetic knee faster
+- Checks father's watch repeatedly
+
+**Tells/Quirks:**
+- Says "Interesting" when he disagrees (polite deflection)
+- "Let me think about that" = needs processing time
+- Touches his prosthetic knee when anxious (grounds himself)
+- Makes obscure references, assumes others track them (they often don't)
+
+### Cultural Identity Navigation
+
+**The Chinese-Western Split:**
+- Undergrad in Beijing: absorbed Chinese educational rigor, hierarchical respect
+- Stanford MBA: learned Western individualism, "disruption" culture
+- Fluent Mandarin and English, thinks in both depending on context
+- With father: dutiful son, formal, speaks Mandarin
+- With Western investors: confident disruptor, speaks English
+- Alone: mix of both, neither fully
+
+**Relationship with father:**
+- Respects him deeply, feels pressured to exceed him
+- Father's overprotection after accident = complicated
+- Father's money funded ventures = gratitude + guilt
+- Wants to prove leg doesn't define him, father's success doesn't define him
+- Seeks approval while resenting needing it
+- Father doesn't understand the "idea collection" approach (sees it as unfocused)
+
+**Filial duty vs. personal vision:**
+- Expected to take over father's manufacturing empire
+- Negotiated hybrid: apply tech to traditional business + own ventures
+- This mission is his chance to step out of father's shadow
+- Risk Manager appointed by committee = father's influence (he knows this)
+
+### The Autism-Spectrum Awareness
+
+**His relationship with being near-spectrum:**
+- Diagnosed? Maybe informally, maybe self-recognized
+- No shame about it - sees it as neural variance, not deficit
+- Privately grateful for pattern recognition abilities
+- Studied social skills like learning a foreign language
+- Uses systems and frameworks for social navigation
+- Still exhausting, even when successful
+- Sensory sensitivities: prefers dim lighting, low noise, specific textures
+- Routines help him function optimally
+
+**What he studied explicitly:**
+- Facial expression databases (Ekman's work)
+- Body language guides
+- Voice tone and prosody
+- Small talk frameworks ("How's your family?" → listen → follow-up)
+- When to make eye contact, when to break it
+- How long to hold a handshake
+- Appropriate laughter timing
+
+**What remains hard:**
+- Group dynamics with multiple conversations
+- Detecting sarcasm (unless exaggerated)
+- Knowing when someone wants him to leave
+- Pretending to care about topics that bore him
+- Networking events (utterly draining)
+- Unexpected social demands
+
+**His workarounds:**
+- Schedules "recharge time" after social events
+- Has exit strategies prepared
+- Risk Manager runs interference in social situations
+- Transparent about needing breaks ("I need to step out for a moment")
+- Asks directly when unsure ("Are you joking or serious?")
+
+### What They Want vs Need
+
+- Wants: Prove he's more than father's son + his disability + his "luck"
+- Also wants: Solve the big problem (whatever the mission is)
+- Needs: Accept that being different (leg, near-spectrum, introverted) is strength, not weakness
+- Needs: Let others in, share the vision fully
+- Arc: Learns collaboration ≠ compromise of vision; trusts team with kernels, not just tasks
+
+### Backstory Wound
+
+**The accident (age 12):**
+- Diving off family yacht, propeller strike
+- Father blamed himself, became overprotective
+- Character learned: hide pain/weakness to protect others from guilt
+- Withdrew into books, ideas, solitude (refuge became preference)
+- Studied social interaction to prove he was "normal"
+- Overachievement = compensation = exhausting
+- The leg is visible difference; near-spectrum is invisible difference (parallel)
+
+**The pattern:**
+- Accident → isolation → self-reliance → studied charm → success
+- Cost: difficulty trusting, difficulty asking for help
+- Believes: "If I show weakness, I'll be limited/pitied/protected"
+- Risk Manager threatens this: she sees his vulnerabilities, accepts them
+
+### Sensory Details (Bring Him to Life)
+
+**His office/workspace:**
+- Minimalist, controlled environment
+- Specific lighting (warm, dim, no fluorescent)
+- Noise-canceling headphones always nearby
+- Multiple monitors, clean desk (everything digital)
+- The notebook of kernel ideas: leather-bound, hand-written, locked drawer
+- Father's watch in a small display case when not wearing it
+- No photos (too distracting)
+- Temperature exactly 20°C
+- Window view of sky/water (prefers horizon over buildings)
+
+**Physical habits:**
+- Drinks water constantly (forgets to eat)
+- Prefers tea over coffee (control over stimulation)
+- Walks while thinking (motion helps processing)
+- Swims laps at night (meditation + exercise + privacy)
+- Sleeps poorly (mind won't shut down)
+- Wears same style clothing (reduces decision fatigue): dark jeans, button-down, minimalist sneakers
+- Carries small notebook always (for kernels)
+
+**Comfort objects:**
+- Father's watch (connection to family)
+- Kernel notebook (connection to self)
+- Specific pen (writes better with it, superstition?)
+- Prosthetic leg (he designed it - pride + shame)
+
+### Professional Competencies
+
+- **Pattern recognition across domains** (his superpower)
+- **Systems thinking** (sees how parts interact)
+- **Strategic patience** (plays long game)
+- **Resource optimization** (learned from father's manufacturing)
+- **Technical fluency** (can code, understands engineering, reads academic papers)
+- **Risk assessment** (pre-games scenarios obsessively)
+- **Fundraising/pitching** (learned skill, but effective)
+- **Team building** (identifies talent, delegates well once he trusts)
+
+### Scenes Where He Shines
+
+- Alone with ideas (show the kernel collection process)
+- Deep technical discussions (lights up, forgets to mask)
+- Crisis problem-solving (calm, methodical, creative)
+- One-on-one conversations with inner circle (drops the mask)
+- Moments where disparate ideas click (show the connection happening)
+- Defending vision against skeptics (quiet certainty)
+- Vulnerability with Risk Manager (rare trust)
+
+### Scenes Where He Struggles
+
+- Large networking events (exhausting performance)
+- Explaining vision to non-technical people (frustrated by communication gap)
+- When someone invades his workspace/routine (displaced irritation)
+- Romantic relationships (intimacy vs. need for solitude)
+- Father's expectations (dutiful son vs. independent man)
+- When people notice the leg (shame he can't fully shed)
+- When forced to make snap decisions without processing time
+
+### His Humor (When It Appears)
+
+- Dry, understated
+- Self-deprecating about wealth: "Yes, I'm very lucky" (with slight edge)
+- Obscure references that land with intellectuals, confuse others
+- Deadpan delivery
+- Laughs genuinely at unexpected connections/clever ideas
+- Doesn't joke much in public (not part of studied persona)
+- With inner circle: more playful, lighter
+
+### Notes for AI When Writing Him
+
+**Show don't tell his intelligence:**
+- Don't have him announce he's smart
+- Show him connecting dots others miss
+- Show the kernel collection process
+- Show him three steps ahead in conversations
+
+**The mask vs. mind:**
+- In public: smooth, practiced, "on"
+- In private: fragmented, intense, "real"
+- Transition moments reveal the effort
+
+**Physical grounding:**
+- Always include prosthetic leg detail in scenes (how he sits, moves)
+- Sensory environment matters to him (note lighting, noise)
+- Show exhaustion after social performances
+
+**Relationship with Risk Manager:**
+- He drops the mask with her
+- She manages social complexity he finds draining
+- Their arguments = respect, not conflict
+- She protects his deep work time
+- He trusts her instincts when his read fails
+
+**The idea kernels:**
+- Reference them periodically
+- Show him making connections across disciplines
+- The notebook is sacred (dropped notebook = crisis)
+
+### Avoid These Traps
+
+- ❌ Sheldon Cooper stereotype (he's self-aware, not clueless)
+- ❌ Savant with no social skills (he *learned* social skills, successfully)
+- ❌ Cold/emotionless (he feels deeply, shows carefully)
+- ❌ Disabled = inspirational (the leg is fact, not identity)
+- ❌ Genius = asshole (he's kind, just introverted)
+- ❌ "Lucky rich kid" (privilege is real, but so is his work)
+- ❌ Explaining his thought process constantly (show through action)
+
+### Key Character Beats to Develop in Story
+
+**Act 1:** 
+- Establish the mask (public charm)
+- Reveal the mind (private kernel collection)
+- Introduce the leg (casual, not dramatic)
+- Show his wake effect (people follow without understanding)
+
+**Act 2:**
+- Mask cracks under pressure
+- Risk Manager sees through it (turning point)
+- Forced collaboration challenges solo preference
+- Kernel idea becomes mission solution
+
+**Act 3:**
+- Integrates mask and mind (authentic leadership)
+- Shares vision fully with team (trust)
+- Accepts help without shame (growth)
+- The leg becomes asset not liability (he upgrades it for mission? metaphor?)
+
+
+
+
+
+---
+
+
+
+## Dr Qian Mei - The Risk Manager
+
+### Composite Model
+Sheryl Sandberg (operational brilliance + networking) + Ai Weiwei (Chinese roots/global mind + subversive humor) + Avasarala from The Expanse (sharp wit + unimpressed competence)
+
+### Core Identity
+- Age: Mid-to-late 40s (12-15 years older than billionaire, 34)
+- Background: PhD from Tsinghua or Fudan, rose through state apparatus
+- Education: Pure Chinese academic track, but global work experience
+- Key trait: Sees the whole chessboard - technical, political, human
+
+### Physical Signature
+- Petite but commanding presence (people lean in to hear her)
+- Always impeccably dressed, Western corporate style with subtle Chinese elements
+- Wears jade bracelet her grandmother gave her, touches it when thinking
+- Has reading glasses on a chain, puts them on to deliver bad news (the gesture is a warning)
+- Prematurely silver hair, keeps it short and sharp
+
+### Contradictions (Critical!)
+- Projects: Cool, rational decision-maker
+- Actually feels: Deep empathy, carries weight of every life at risk
+- Why the gap: Learned early that showing emotion = losing credibility as woman in STEM
+
+- Projects: Loyal party-appointed committee member
+- Actually feels: Privately questions many institutional decisions
+- Why the gap: Works within system to change it, like Ai Weiwei - subversion through compliance
+
+- Projects: Focused on risk mitigation (the brake)
+- Actually feels: Deeply excited by the mission, wants it to succeed
+- Why the gap: Someone has to be the adult; billionaire gets to dream, she keeps everyone alive
+
+### Voice Fingerprints (Dialogue)
+- Asks devastating questions rather than making accusations
+  - "And when this fails, who explains to their families?"
+- Uses humor to deliver hard truths
+  - "Your optimism is adorable. Also dangerous."
+- Mixes Chinese idioms with English (code-switches strategically)
+- Swears creatively in Mandarin when stressed
+- Speaks in complete, precise sentences - no hedging or qualifiers
+- Ends difficult conversations with: "So. We understand each other?"
+
+### Sensory Details (Sandberg-style precision)
+- Keeps meticulous handwritten notes in leather journal (analog in digital world)
+- Drinks oolong tea, specific temperature, refuses to compromise on quality
+- Has perfect posture from classical piano training as child
+- Types with two fingers incredibly fast (never learned "proper" way)
+- Smells faintly of osmanthus perfume
+- Walks quickly, everyone else scrambles to keep up
+
+### The Networking Superpower
+- Remembers everyone's name, their children's names, what they're working on
+- Introduces people constantly: "You two should talk, you're solving adjacent problems"
+- Maintains relationships across decades - sends birthday messages, remembers anniversaries
+- Has contacts in every department, every agency, every competing company
+- People owe her favors but she never mentions it
+- Can assemble expert task forces over dinner
+- Her phone is constantly buzzing - she's everyone's first call
+
+### Relationship with Billionaire Character
+**Her perspective on him:**
+- Sees his brilliance and blind spots clearly
+- Protective (almost maternal) but won't coddle him
+- Frustrated by his privilege-based optimism (he can fail and be fine; others can't)
+- Respects his vision, questions his timeline
+- Knows his father, which complicates dynamics
+- Sees the prosthetic leg insecurity he thinks he hides
+
+**His perspective on her:**
+- Initially sees her as obstacle/babysitter
+- Gradually realizes she's the only one telling him truth
+- Intimidated by her competence and connections
+- Grateful she has his back, even when she's telling him no
+- Slightly afraid of disappointing her
+- Doesn't realize she believes in him more than she lets on
+
+**Their dynamic:**
+- She calls him out on his shit
+- He pushes back but ultimately listens
+- She finds resources he didn't know existed
+- He gives her cover to take risks she couldn't take alone
+- They argue in meetings, strategize in private
+- Mutual respect built on competence, not friendship (at first)
+- Sexual tension? NO. This is professional respect between equals.
+- But fierce loyalty once earned
+
+### Backstory Wound
+Rose through male-dominated Chinese aerospace/tech establishment in the 90s-2000s. Was brilliant but repeatedly passed over for promotions given to less qualified men. Finally promoted when they needed her skills for critical project - succeeded, but learned she had to be twice as good and never show doubt. Father was engineer who encouraged her, died before seeing her success. Drives her to prove herself while knowing she shouldn't have to.
+
+The cost: Two failed marriages to men intimidated by her success. No children (complicated feelings about this). Work became everything.
+
+### What They Want vs Need
+- Wants: The mission to succeed perfectly, no casualties, prove critics wrong
+- Needs: To trust others to carry the weight, to accept imperfect success
+- Arc: Learns she can't control everything; delegation ≠ failure
+
+### Global Perspective Despite Chinese Education
+- Studied in China during opening-up era - absorbed international perspectives through literature, film, foreign professors
+- Early career included international collaborations, UN projects
+- Reads voraciously in multiple languages
+- Has lived/worked in: Singapore, Geneva, briefly California
+- Understands both Eastern and Western bureaucracies intimately
+- Can code-switch between Chinese institutional thinking and Western corporate culture
+- Bridges cultural gaps others don't see - this is her real superpower
+- Neither fully insider nor outsider anywhere - uses this strategically
+
+### Her Humor Style (Ai Weiwei + Avasarala)
+- Dry, cutting, often deployed in tense moments
+- Uses understatement: "Well, that's suboptimal" (when disaster strikes)
+- Subversive observations disguised as compliance
+- Self-deprecating about age: "I'm too old for this shit" (but she's not)
+- Teases the billionaire about his earnestness
+- Makes dark jokes about bureaucracy and risk
+- Example: "The committee approved this. Which means they didn't read it, or they want plausible deniability when it explodes."
+
+### Professional Competencies
+- Risk analysis and scenario planning (sees failure modes others miss)
+- Political navigation (Chinese institutional, international corporate)
+- Crisis management (unflappable under pressure)
+- Team building and talent spotting
+- Resource allocation under constraints
+- Technical fluency (PhD-level, can follow the science)
+- Negotiation (disarms through precise questions)
+
+### Scenes Where She Shines
+- Committee meetings (watching her navigate politics)
+- Crisis response (ice-cold competence)
+- Private conversations where she's brutally honest
+- Networking moments where she connects people
+- Humor diffusing tension
+- Calling out the billionaire's blind spots
+- Making the hard call he can't/won't make
+
+### Notes for AI When Writing Her
+- She never explains or justifies herself - states facts, asks questions
+- Uses silence strategically (lets others fill the gap)
+- Physical stillness = danger (when she stops moving, pay attention)
+- Shows care through actions, not words (arranges resources, removes obstacles)
+- Never raises her voice - gets quieter when angry
+- Respects competence, has zero patience for posturing
+- Treats junior staff same as executives (meritocracy in action)
+
+### Avoid These Traps
+- ❌ Dragon lady stereotype (she's warm with people she trusts)
+- ❌ Cold calculator (she cares deeply, just shows it differently)
+- ❌ Sexless authority figure (she's attractive, just not defined by it)
+- ❌ Perpetual opposition (she wants success, just safely)
+- ❌ Tiger mom (her mentoring is Socratic, not demanding)
+- ❌ Inscrutable Asian (she's incredibly direct, just strategic about when)
+```
+
+## Key Relationship Beats to Develop
+
+**Act 1:** She's the obstacle. He sees her as committee spy. She sees him as reckless rich kid.
+
+**Act 2:** Crisis forces collaboration. He realizes her networks save the mission. She sees his genuine commitment.
+
+**Act 3:** They're a team. She gives him hard truths. He gives her permission to take risks. Mutual respect → fierce partnership.
+
+**The Romance Question:** NO. Their power comes from being equals who don't need romantic validation. Subvert the expectation.
+
+## Sample Dialogue Exchange
+```
+BILLIONAIRE: "The window closes in six weeks. We need to launch."
+
+HER: [Puts on reading glasses] "Mm. And when the life support fails at 0.3 AU, which family would you like to notify first?"
+
+BILLIONAIRE: "The simulations—"
+
+HER: "—assume components perform within spec. They won't. They never do." [Pause] "I'm not saying no. I'm saying: what's your Plan B when your optimism meets physics?"
+
+BILLIONAIRE: [Frustrated] "Why are you even here if you don't believe—"
+
+HER: "I believe. That's why I'm here. Someone has to love this mission enough to tell you the truth."
+
+
+
+
+
+---
 
 
 
