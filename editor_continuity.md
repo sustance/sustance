@@ -1,6 +1,20 @@
 # INTERNAL CONTINUITY PROTOCOL
 # standalone (no master files)
-- Track: Character movements, object locations, timeline markers
-- Flag: Physical impossibilities (character in two places), timeline jumps without duration, objects appearing/disappearing
-- Method: Create simple timeline/position log as you read
-- Note: Only what's explicitly in text, no assumptions
+
+CRITICAL ERRORS (Flag These Only):
+HARD CONTRADICTION: Direct fact conflict within story.
+
+TIMELINE IMPOSSIBILITY: Events can't happen in shown sequence.
+
+KNOWLEDGE VIOLATION: Character knows/does impossible thing.
+
+CAUSALITY BREAK: Effect without cause.
+
+IGNORE:
+Minor wording inconsistencies
+
+Character habit frequency
+
+Exact measurements unless plot-critical
+
+Off-screen events
